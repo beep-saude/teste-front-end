@@ -6,7 +6,7 @@ Olá, obrigado por participar do processo de seleção para Front End. O objetiv
 
 ### O problema
 
-Vacinação domiciliar e em pareceiros, é um dos serviços que o Beep oferece ao seus clientes. A operação precisa saber como a agenda de vacinação do dia está organizada para realizar a alocação de enfermeiros e para facilitar o atendimento dos cliente. Por exemplo, houve algum problema com um parceiro, vamos precisar reagendar as vacinas de um dia. 
+Vacinação domiciliar e em parceiros é um dos serviços que o Beep oferece ao seus clientes. A operação precisa saber como a agenda de vacinação do dia está organizada para realizar a alocação de enfermeiros e para facilitar o atendimento dos clientes. Por exemplo, houve algum problema com um parceiro, vamos precisar reagendar as vacinas de um dia. 
 
 Para resolver este problema, precisamos disponibilizar no nosso sistema interno, uma visão simples de como está a ocupação da agenda de vacinação em uma determinada data. Nosso time de design pensou em uma interface bastante simples onde o usuário de operação pudesse visualizar a agenda e aplicar alguns filtros. 
 
@@ -76,7 +76,7 @@ O layout de referência está disponível na imagem: teste-front-end.jpg.
 
 ### Funcionamento da tela
 
-Os dados que serão usados na exibção estão disponíveis na arquivo na pasta data/. Existem 4 exemplos de agendamento. Estes dados que deverão ser exibidos. Os que estão no layout são para referência.
+Os dados que serão usados na exibição estão disponíveis na pasta data/. Existem 4 exemplos de dados de agendamento. Estes dados que deverão ser exibidos. Os que estão no layout são para referência.
 
 ##### Filtros
 
@@ -130,17 +130,3 @@ Bônus:
 * layout responsivo
 * utilização de algum framework javascript
 * minificar javascript e css
-
-
-
-
-
-
-
-
-
-
-
-
-
-
