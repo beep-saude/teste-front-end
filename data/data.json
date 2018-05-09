@@ -1,0 +1,135 @@
+[
+   {
+      "id":2,
+      "call_id":9044,
+      "ticket_voucher":"9044",
+      "schedule_date":"2018-05-16T08:30:00.000-03:00",
+      "product_type":"vaccines",
+      "modality":"office",
+      "requester":{
+         "name":"Luiz Augusto",
+         "phone":"(21)98778-9889"
+      },
+      "partner":{
+         "id":5,
+         "name":"Lâmina Icaraí",
+         "phone":"(21)35773-231",
+         "partner_address":"Rua Otávio Carneiro, 140"
+        },
+      "products":[
+         {
+            "quantity":1,
+            "product_name":"Hexavalente",
+            "product_category_name":"Infantil"
+         },
+         {
+            "quantity":1,
+            "product_name":"Herpes Zóster",
+            "product_category_name":"Infantil"
+         }
+      ],
+      "created_at":"2018-05-08T18:48:03.605-03:00",
+      "updated_at":"2018-05-08T18:48:03.605-03:00"
+   },
+   {
+      "id":4,
+      "call_id":9046,
+      "ticket_voucher":"9046",
+      "schedule_date":"2018-05-21T07:30:00.000-03:00",
+      "product_type":"vaccines",
+      "modality":"homecare",
+      "requester":{
+        "name":"Rafaela Geisiane",
+        "phone":"(21)99878-9098"
+     },
+     "partner":{
+         "id":5,
+         "name":"Beep Vacinas",
+         "phone":"(21)35773-231",
+         "partner_address":"Rua da Glória, 140"
+      },
+      "products":[
+         {
+            "quantity":1,
+            "product_name":"Hexavalente",
+            "product_category_name":"Infantil"
+         },
+         {
+            "quantity":1,
+            "product_name":"Herpes Zóster",
+            "product_category_name":"Infantil"
+         }
+      ],
+      "created_at":"2018-05-08T18:53:11.822-03:00",
+      "updated_at":"2018-05-08T18:53:11.822-03:00"
+   },
+   {
+      "id":5,
+      "call_id":9045,
+      "ticket_voucher":"9045",
+      "schedule_date":"2018-05-23T09:00:00.000-03:00",
+      "product_type":"vaccines",
+      "modality":"office",
+      "requester":{
+        "name":"Juliana Maria",
+        "phone":"(21)90898-5433"
+      },
+      "partner":{
+         "id":6,
+         "name":"Lâmina Barra",
+         "phone":"(21)35773-231",
+         "partner_address":"Av. das Américas, 1701"
+      },
+      "products":[
+         {
+            "quantity":1,
+            "product_name":"Meningocócica B",
+            "product_category_name":"Infantil"
+         },
+         {
+            "quantity":1,
+            "product_name":"Hexavalente",
+            "product_category_name":"Infantil"
+         },
+         {
+            "quantity":1,
+            "product_name":"Pneumocócica 13 Conjugada",
+            "product_category_name":"Infantil"
+         }
+      ],
+      "created_at":"2018-05-08T18:53:11.843-03:00",
+      "updated_at":"2018-05-08T18:53:11.843-03:00"
+   },
+   {
+      "id":6,
+      "call_id":9048,
+      "ticket_voucher":"9048",
+      "schedule_date":"2018-05-25T12:00:00.000-03:00",
+      "product_type":"vaccines",
+      "modality":"office",
+      "requester":{
+        "name":"Paula Matos de Souza",
+        "phone":"(21)8876-9989"
+      },
+      "partner":{
+        "id":6,
+        "name":"Lâmina Barra",
+        "phone":"(21)35773-231",
+        "partner_address":"Av. das Américas, 1701"
+      },
+      "products":[
+         {
+            "quantity":1,
+            "product_name":"Hexavalente",
+            "product_category_name":"Infantil"
+         },
+         {
+            "quantity":1,
+            "product_name":"Pneumocócica 13 Conjugada",
+            "product_category_name":"Infantil"
+         }
+      ],
+      "created_at":"2018-05-08T18:55:30.991-03:00",
+      "updated_at":"2018-05-08T18:55:30.991-03:00"
+   }
+]
