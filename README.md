@@ -120,7 +120,7 @@ Para filtrar os dados, deve se utilizar o atributo `partner`.
 
 
 
-### O que iremos levar em consideração
+### O que levaremos em consideração
 
 * organização e escrita do código HTML + CSS
 * organização do código em javascript
@@ -129,7 +129,7 @@ Para filtrar os dados, deve se utilizar o atributo `partner`.
 Bônus:
 * layout responsivo
 * utilização de algum framework javascript
-
+* minificar javascript e css
 
 
 
