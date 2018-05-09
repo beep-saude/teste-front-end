@@ -14,7 +14,7 @@ Para resolver este problema, precisamos disponibilizar no nosso sistema interno,
 
 O candidato deverá implementar a tela de visualização de agendas de maneira mais próxima possível ao layout proposto pelo time de design.
 
-![Layout proposto] (test-front-end.jpg)
+![Layout proposto](teste-front-end.jpg)
 
 ### Arquivos do projeto
 
